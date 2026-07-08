@@ -230,12 +230,12 @@ MonoBehaviour:
   moveSpeed: 5
   runSpeed: 10
   jumpForce: 2.5
-  attackRate: 2
+  attackRate: 20
   attackableLayers:
     serializedVersion: 2
     m_Bits: 256
   attackRadius: 0.2
-  attackDamage: 5
+  attackDamage: 1
   running: 0
   pushing: 0
   curState: 1

@@ -1274,7 +1274,7 @@ MonoBehaviour:
   - {fileID: 4037124449677839204}
   - {fileID: 504301732996946570}
   moveSpeed: 2
-  runSpeed: 5
+  runSpeed: 30
   jumpForce: 2.5
   attackRate: 1
   attackableLayers:
@@ -1550,9 +1550,9 @@ MonoBehaviour:
   maxHealth: 100
   startHealth: 100
   invincible: 0
-  hasLives: 0
-  maxLives: 3
-  startLives: 3
+  hasLives: 1
+  maxLives: 1
+  startLives: 1
 --- !u!1 &7698467572368454262
 GameObject:
   m_ObjectHideFlags: 0
