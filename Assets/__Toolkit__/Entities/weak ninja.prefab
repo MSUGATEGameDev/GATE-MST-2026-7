@@ -1210,7 +1210,7 @@ GameObject:
   - component: {fileID: 4987788753349005586}
   - component: {fileID: 5508241371933008898}
   m_Layer: 8
-  m_Name: Ninja
+  m_Name: weak ninja
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
